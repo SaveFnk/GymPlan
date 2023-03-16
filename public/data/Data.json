@@ -1,0 +1,30 @@
+[
+    {
+        "Name":"Push-Pull-Legg",
+        "start":"4/5/22",
+        "end":"-/-/-",
+        "sc1":"{id:'0',name:'Pull-Day'};{id:'1',ex:'trazioni',set:'5',rep:'5'};{id:'2',ex:'pulley',set:'4',rep:'10'};{id:'3',ex:'lat macchine',set:'3',rep:'10'};{id:'4',ex:'scrollate',set:'3',rep:'8'}",
+        "sc2":"{id:'0',name:'Push-Day'};{id:'1',ex:'Panca piana',set:'5',rep:'5'};{id:'2',ex:'Panca inclinata manubri',set:'4',rep:'10'};{id:'3',ex:'Croci ai cavi',set:'3',rep:'12'};{id:'4',ex:'Pull down corde',set:'4',rep:'10'}",
+        "sc3":"{id:'0',name:'Legg-Day'};{id:'1',ex:'Squat',set:'5',rep:'8'};{id:'2',ex:'affondi',set:'3',rep:'12'};{id:'3',ex:'legg extension',set:'3',rep:'12'};{id:'4',ex:'calf',set:'3',rep:'10'}"
+    },
+    {
+        "Name":"Strenght",
+        "start":"22/3/22",
+        "end":"4/5/22",
+        "sc1":"{id:'0',name:'Bench'};{id:'1',ex:'Bench-press',set:'5',rep:'10-8-5-5-3'};{id:'2',ex:'Dip',set:'4',rep:'max'}",
+        "sc2":"{id:'0',name:'DeadLift'};{id:'1',ex:'DeadLift',set:'5',rep:'5'};{id:'2',ex:'Trazioni',set:'4',rep:'max'}",
+        "sc3":"{id:'0',name:'Squat'};{id:'1',ex:'Squat',set:'5',rep:'8'};{id:'2',ex:'affondi',set:'4',rep:'10'}"
+    },
+    {
+        "Name":"Home Workout",
+        "start":"-/-/-",
+        "end":"22/3/22",
+        "sc1":"{id:'0',name:'Giorno A'};{id:'1',ex:'Piegamenti',set:'6',rep:'10'};{id:'2',ex:'Trazioni',set:'6',rep:'max'}",
+        "sc2":"{id:'0',name:'Giorno B'};{id:'1',ex:'Trazioni prone',set:'5',rep:'8'};{id:'2',ex:'piegamenti',set:'5',rep:'max'}"
+    }
+]
+
+
+
+        
+        

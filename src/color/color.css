@@ -1,0 +1,55 @@
+.bg-dark-0{
+    background-color:  #363d44;
+   }
+.bg-dark-1{
+ background-color:  #292e33;
+}
+.bg-dark-2{
+    background-color:  #212529;
+}
+.bg-dark-3{
+    background-color:  #1d2024;
+}
+
+/*1-2*/
+.gradientX-1-to-2{
+    background-image: linear-gradient(to right,#292e33 , #212529);
+}
+
+.gradientX-2-to-1{
+    background-image: linear-gradient(to right,  #212529, #292e33);
+}
+.gradientY-1-to-2{
+    background-image: linear-gradient( #292e33 , #212529);
+}
+
+.gradientY-2-to-1{
+    background-image: linear-gradient(  #212529,#292e33);
+}
+
+.gradientY-1-to-2-2{
+    background-image: linear-gradient( #292e33 , #212529, #212529);
+}
+
+.gradientY-2-2-to-1{
+    background-image: linear-gradient(  #212529,#212529,#292e33);
+}
+
+/*2-3*/
+.gradientX-2-to-3{
+    background-image: linear-gradient(to right, #212529 ,#1d2024);
+}
+
+.gradientX-3-to-2{
+    background-image: linear-gradient(to right, #1d2024, #212529);
+}
+.gradientY-2-to-3{
+    background-image: linear-gradient( #212529 ,#1d2024);
+}
+
+.gradientY-3-to-2{
+    background-image: linear-gradient( #1d2024, #212529);
+}
+
+
+/*bootstrap background-color:  #212529;*/

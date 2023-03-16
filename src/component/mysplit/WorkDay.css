@@ -1,0 +1,20 @@
+.icon-X{
+    width: 10px;
+}
+
+.remove-btn{
+    display: flex;
+    align-items: center;
+}
+
+.hr-day{
+    height: 1px;
+    width: 100%;
+    color:#343a40;
+    margin-top: 0px !important;
+    margin-bottom: 3px !important;
+}
+
+.desc{
+    font-size: 12px;
+}

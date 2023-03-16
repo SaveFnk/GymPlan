@@ -1,0 +1,25 @@
+.mysplitcontainer{
+    height: 100%;
+}
+.backarrow{
+    font-size: 24px;
+}
+
+.icon-container{
+    position: absolute;
+    right: 10%;
+    font-size: medium;
+}
+
+/*
+.img-profile{
+
+}*/
+
+.info-t{
+    font-size: small;
+}
+
+.btn:hover{
+    color: none;
+}

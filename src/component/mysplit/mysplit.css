@@ -1,0 +1,54 @@
+.mysplitcontainer{
+    height: 100%;
+}
+
+.new-split{
+    text-decoration: none;
+}
+.rname{
+    font-weight: bold;
+}
+
+.data{
+    font-size: 14px;
+}
+
+.icon-change{  
+    position: absolute;
+    top: 25%;
+    right: 7%;
+    font-size: large;
+}
+
+.icon-copy{  
+    position: absolute;
+    top: 25%;
+    right: 18%;
+    font-size: large;
+}
+
+.SPstart{
+    background: none !important;
+}
+
+.SPtitle{/*fix after*/
+    width: 95%;
+}
+.backarrow{
+    font-size: 24px;
+}
+/*
+.form-switch {
+    padding: 0;
+  }
+.form-check-input {
+    float: right;
+}*/
+
+.form-check-label{
+    margin: 0;
+}
+
+.cardChangeSplit{
+    overflow: "auto";
+}

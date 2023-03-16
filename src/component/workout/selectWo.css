@@ -1,0 +1,145 @@
+
+.mysplitcontainer{
+    height: 100%;
+}
+
+.new-split{
+    text-decoration: none;
+}
+.rname{
+    font-weight: bold;
+}
+
+.data{
+    font-size: 14px;
+}
+
+.icon-change{  
+    position: absolute;
+    top: 11%;
+    right: 7%;
+    font-size: large;
+}
+
+.icon-copy{  
+    position: absolute;
+    top: 11%;
+    right: 18%;
+    font-size: large;
+}
+
+.SPstart{
+    background: none !important;
+}
+
+.SPtitle{/*fix after*/
+    width: 95%;
+}
+.backarrow{
+    font-size: 24px;
+}
+
+.form-switch {
+    padding: 0;
+  }
+.form-check-input {
+    float: right;
+}
+
+.form-check-label{
+    margin: 0;
+}
+
+/*POPUP*/
+
+.popup{
+    position:fixed;
+    top: 0;
+    left: 0;
+    z-index: 9;
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(40, 45, 50, 0.8);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.popup-inner{
+    position: relative;
+    padding: 32px;
+    width: 100%;
+    max-width: 640px;
+    background-color:#343a40;
+}
+
+.popup-inner .close-btn{
+    position: absolute;
+    font-size: 20px;
+    top: 14px;
+    right: 20px;
+}
+
+.titlePopup{
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.input-text{
+    background-color:#24282c !important;
+}
+
+.select{
+    background: none !important;
+}
+
+.title{
+    font-size: 20px;
+}
+
+
+
+/*Workout*/
+
+.leftC{
+    border-left: 0 !important;
+}
+
+.rightC{
+    border-right: 0 !important;
+}
+
+.move-icon{
+    margin: auto;
+    font-size: larger;
+}
+
+.input-text{
+    width: 50%;
+}
+
+.move-ex{
+    font-size: small;
+}
+.repRow{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.repText{
+    display: inline-block;
+    width: auto; 
+}
+
+.rep-container{
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: auto; 
+}
+.rep-container > .col-3{
+    display: inline-block;
+    padding: 0%;
+}
